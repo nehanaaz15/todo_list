@@ -2,4 +2,4 @@
 
 https://nehatodolist.netlify.app/
 
-Let's user add there tasks
+Let's user add there todo tasks
